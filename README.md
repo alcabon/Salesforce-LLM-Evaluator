@@ -1,4 +1,4 @@
-# -Salesforce-LLM-Evaluator
+# Salesforce-LLM-Evaluator (Claude)
 
  Je vais vous aider à créer cette extension VSCode complète pour évaluer les LLM avec GitHub Copilot sur du code Salesforce. Commençons par les deux étapes principales.
 
